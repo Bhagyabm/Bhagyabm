@@ -11,7 +11,7 @@ Welcome to my GitHub — a space where innovation meets code, and curiosity fuel
 🔍 Enthusiast in **Machine Learning**, **Computer Vision**, and **Web Development**  
 📚 Actively building and exploring tech through impactful academic & collaborative projects
 
-### 🚧 Ongoing Projects
+### 🚧 Academic Projects
 - 🛰️ **USV-Based Panoptic Segmentation** with Mask2Former & SwinTransformer  
 - 🧪 **Bladder Cancer Prediction** using Urinary Biomarkers and Ensemble ML  
 - 🌐 **KLE Campus Connect** – a student-club interaction web portal
